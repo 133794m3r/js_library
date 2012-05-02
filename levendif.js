@@ -1,3 +1,10 @@
+/**
+ *
+ * Copyright: 2011 by Macarthur Inbody, Licensed under the LGPL v3 or higher
+ * Javascript SQL query parser.
+ *
+ */
+
 /*
 *
 *Calculates the Levenshtein Difference

@@ -1,3 +1,9 @@
+/**
+ *
+ * Copyright: 2011 by Macarthur Inbody, Licensed under the LGPL v3 or higher
+ * Javascript SQL query parser.
+ *
+ */
 function sha1(msg) {
 
     function rotate_left(n,s) {

@@ -1,3 +1,9 @@
+/**
+ *
+ * Copyright: 2011 by Macarthur Inbody, Licensed under the LGPL v3 or higher
+ * Javascript SQL query parser.
+ *
+ */
 function ascii85(inputstr,pos){
     var max=parseInt(inputstr.length);
     var ib=0;

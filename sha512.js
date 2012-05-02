@@ -1,4 +1,9 @@
-
+/**
+ *
+ * Copyright: 2011 by Macarthur Inbody, Licensed under the LGPL v3 or higher
+ * Javascript SQL query parser.
+ *
+ */
 var hexcase = 0;  /* hex output format. 0 - lowercase; 1 - uppercase        */
 var b64pad  = ""; /* base-64 pad character. "=" for strict RFC compliance   */
 

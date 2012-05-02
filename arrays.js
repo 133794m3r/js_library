@@ -1,4 +1,11 @@
 /**
+ *
+ * Copyright: 2011 by Macarthur Inbody, Licensed under the LGPL v3 or higher
+ * Javascript SQL query parser.
+ *
+ */
+
+/**
  *Haystack Searcher
  *
  *checks a string for all occurences of a value AND returns all of them.
